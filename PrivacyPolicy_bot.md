@@ -7,7 +7,7 @@
 
 
 ### 2. Questions and Concerns.
-#### Feel free to join the [support server](https://discord.com/invite/DPKPA9u) and/or contact [email](itisshubhamkumar@gmail.com).
+#### Feel free to join the [support server](https://discord.com/invite/DPKPA9u) and/or contact (itisshubhamkumar@gmail.com)
 
 ### Please note, that we can change this policy without any warning at any given time.
 #### **Last changed:** `2021 jan 7th`
