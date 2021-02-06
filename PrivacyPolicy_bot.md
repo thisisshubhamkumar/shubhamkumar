@@ -1,6 +1,6 @@
 ## spyo bot Privacy Policy
 
-### By using Dredd you accept with its privacy policy. 
+### By using Spyo you accept with its privacy policy. 
 
 ### 1. What does it store?
 ##### • Currently, No information is stored.
